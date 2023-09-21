@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "usuario": "tmp",
+      "id": 1,
+      "nome": "Thiago Marangoni Pereira",
+      "email": "thiago.pereira55@fatec.sp.gov.br",
+      "seguidres": "20",
+      "seguindo": "10",
+      "foto": "https://avatars.githubusercontent.com/u/118745996?s=400&u=7de50dc54a3c0e6957101d8dd9be3a98fdc4c773&v=4"
+    },
+    {
+      "usuario": "gj",
+      "id": 2,
+      "nome": "Gidelson Junior",
+      "email": "Gidelson55@fatec.sp.gov.br",
+      "seguidres": "20",
+      "seguindo": "10",
+      "foto": "https://avatars.githubusercontent.com/u/83234347?v=4"
+    },
+    {
+      "usuario": "ef",
+      "id": 3,
+      "nome": "Enzo Felix",
+      "email": "enzo.felix@fatec.sp.gov.br",
+      "seguidres": "20",
+      "seguindo": "10",
+      "foto": "https://avatars.githubusercontent.com/u/101266167?v=4"
+    },
+    {
+      "usuario": "bbr",
+      "nome": "Bianca Ratto",
+      "email": "bianca.ratto@fatec.sp.gov.br",
+      "id": 4,
+      "seguidres": "20",
+      "seguindo": "10",
+      "foto": "https://avatars.githubusercontent.com/u/100171070?v=4"
+    }
+  ],
+  "repositories": [
+    {
+      "postId": 1,
+      "id": 2,
+      "rnome": "Ariana",
+      "rdata": "26 jun. 2023"
+    },
+    {
+      "id": 3,
+      "rnome": "OcaraBom",
+      "rdata": "01 set. 2023",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "rnome": "Poopy",
+      "rdata": "01 Ago. 2023",
+      "postId": 3
+    },
+    {
+      "id": 5,
+      "rnome": "Martelo",
+      "rdata": "01 Jun. 2023",
+      "postId": 3
+    },
+    {
+      "id": 6,
+      "rnome": "Nami",
+      "rdata": "01 Abril. 2023",
+      "postId": 4
+    },
+    {
+      "postId": 1,
+      "rnome": "Fantasize",
+      "rdata": "10 de Fev.",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

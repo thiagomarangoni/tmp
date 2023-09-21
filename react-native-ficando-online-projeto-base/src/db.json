@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nome": "Thiago Marangoni Pereira",
+        "email": "thiago.pereira55@fatec.sp.gov.br"
+      },
+      {
+        "id": 2,
+        "nome": "Gidelson Junior",
+        "email": "Gidelson55@fatec.sp.gov.br"
+      },
+      {
+        "id": 3,
+        "nome": "Enzo Felix",
+        "email": "enzo.felix@fatec.sp.gov.br"
+      },
+      {
+        "nome": "Bianca Ratto",
+        "email": "bianca.ratto@fatec.sp.gov.br",
+        "id": 4
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
